@@ -30,7 +30,7 @@ Please download the Ipython notebook from here.
 
  
 
-NOTE:
+**NOTE:**
 
 You don't have to use any pre-trained model using Transfer learning. All the model building processes should be based on a custom model.
 Some of the elements introduced in the assignment are new, but proper steps have been taken to ensure smooth learning. You must learn from the base code provided and implement the same for your problem statement.
